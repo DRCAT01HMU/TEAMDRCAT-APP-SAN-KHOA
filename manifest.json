@@ -1,0 +1,30 @@
+{
+  "short_name": "TDC Sản Khoa",
+  "name": "CASE LÂM SÀNG SẢN KHOA",
+  "description": "Ứng dụng tổng hợp 14 case lâm sàng môn Sản khoa",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3004/3004458.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3004/3004458.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#0f172a",
+  "shortcuts": [
+    {
+      "name": "Trang chủ",
+      "short_name": "Trang chủ",
+      "description": "Quay về trang chính",
+      "url": "./index.html"
+    }
+  ]
+}
